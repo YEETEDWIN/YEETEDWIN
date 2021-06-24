@@ -25,3 +25,4 @@ Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I 
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeetedwin)](https://github.com/yeetedwin/github-readme-stats)
