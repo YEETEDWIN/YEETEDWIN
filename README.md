@@ -3,7 +3,10 @@
 *Used from RayhanADev [![RayhanADev](https://img.shields.io/badge/RayhanADev-README.md-blue)](https://github.com/RayhanADev/RayhanADev) README*
 
 **NOTICE**
+
 I just wanted to say that maybe you might see your github repositories on my account. I just try to learn from those repositories and when I ussually do that I don't put your credits... If your repo was there recently I might've have not forked it because I didn't know what fork meant. Sorry for any miscommunication!
+
+---
 
 Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I am very young as a coder as I am only 12 ***(almost 13!)***. I like coding very much and my hobbies are the following:
 - **Coding**
