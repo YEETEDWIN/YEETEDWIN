@@ -30,5 +30,5 @@ Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I 
   <img src="https://github-readme-stats.vercel.app/api?username=yeetedwin&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetedwin&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeetedwin&theme=oldie&column=3&margin-w=20&margin-h=20">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeetedwin&theme=onedark">
 </div>
