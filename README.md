@@ -31,6 +31,6 @@ Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I 
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeetedwin&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
   <img src="https://github-profile-trophy.vercel.app/?username=yeetedwin&theme=onedark">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YEETEDWIN&theme=rogue">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YEETEDWIN&theme=react">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YEETEDWIN&theme=rogue">
 </div>
