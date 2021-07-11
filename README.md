@@ -1,4 +1,4 @@
-*Used from [![RayhanADev](https://img.shields.io/badge/RayhanADev-README.md-blue)](https://github.com/RayhanADev/RayhanADev) README*
+*Used from [![RayhanADev](https://img.shields.io/badge/RayhanADev-README.md-blue)](https://github.com/RayhanADev/RayhanADev)*
 
 **NOTICE**
 
