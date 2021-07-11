@@ -12,6 +12,7 @@ Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I 
 ---
 
 <img align="left" height="150px" src="https://i.postimg.cc/Zn2NdMJC/rsz-logo.png">
+
 <h4 style="margin-top: 0px; padding-top: 0px;">Socials:</h4>
 
 [![mail](https://img.shields.io/badge/-@YEETEDWIN-313131?style=flat-square&labelColor=313131&logo=protonmail&logoColor=white&color=313131)](mailto:yeetedwin@protonmail.com)<br />
