@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/YEETEDWIN)
 
-*The [Website](https://yeetedwin.github.io/YEETEDWIN/)*
+*The [Website](https://yeetedwin.is-a.dev)*
 
 ---
 
