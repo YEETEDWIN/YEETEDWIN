@@ -1,6 +1,6 @@
 *Used from [![RayhanADev](https://img.shields.io/badge/RayhanADev-README.md-blue)](https://github.com/RayhanADev/RayhanADev)*
 
-![Profile views](https://gpvc.arturio.dev/[YEETEDWIN])
+![Profile views](https://gpvc.arturio.dev/YEETEDWIN)
 
 *The [Website](https://yeetedwin.github.io/YEETEDWIN/)*
 
