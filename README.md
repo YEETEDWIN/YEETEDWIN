@@ -4,6 +4,8 @@
 
 *The [Website](https://yeetedwin.is-a.dev)*
 
+*Hey have you forked a pineapple before? I have thought!*
+
 ---
 
 Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I am very young as a coder as I am only 12 ***(almost 13!)***. I like coding very much and my hobbies are the following:
