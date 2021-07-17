@@ -37,7 +37,7 @@ Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I 
         <th>Softwares</th>
       </tr>
       <tr>
-        <th><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></img></a></th>
+        <th><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></a></th>
         <th><a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/-Json DB-313131?style=flat-square&labelColor=313131&logo=json&logoColor=white&color=313131"></img></a></th>
         <th><a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual Studio Code-313131?style=flat-square&labelColor=313131&logo=visual-studio-code&logoColor=white&color=313131"></img></a></th>
       </tr>
