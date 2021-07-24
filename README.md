@@ -86,3 +86,5 @@ Hi my name is YeeTEDWIN *(also known as Y^^TED, can't say my **real name**)*. I 
 <img src="https://github-profile-trophy.vercel.app/?username=yeetedwin&theme=onedark">
 <h3>Contributions & Streak:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YEETEDWIN&theme=react">
+<h3>Contribution Graph</h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=yeetedwin&theme=github">
