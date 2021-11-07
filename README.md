@@ -4,7 +4,7 @@
 
 *The [Website](https://yeetedwin.is-a.dev). Type on computer please, still haven't coded for other devices!*
 
-*Hey have you forked a pineapple before? I have thought!*
+*Hey have you forked a pineapple before? I have though!*
 
 ---
 
